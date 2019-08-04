@@ -13,3 +13,11 @@
 /1.city/Course.1_0.Introduction/Task1/Debug/*.log
 /1.city/Course.1_0.Introduction/Task1/Debug/Task1.tlog/*.tlog
 /1.city/Course.1_0.Introduction/Task1/Debug/Task1.tlog/*.lastbuildstate
+/1.city/Course.1_0.Introduction/.vs/Course.1_0.Introduction/v15/*.db-shm
+/1.city/Course.1_0.Introduction/.vs/Course.1_0.Introduction/v15/*.db-wal
+/1.city/Course.1_0.Introduction/.vs/Course.1_0.Introduction/v15/ipch/AutoPCH/4568ec2984d8b2ca/*.ipch
+*.obj
+*.log
+*.tlog
+*.idb
+*.pdb
