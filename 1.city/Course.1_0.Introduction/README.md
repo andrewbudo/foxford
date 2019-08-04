@@ -1,14 +1,15 @@
 # foxford
-##Информатика. Подготовка к окружному этапу олимпиады##
+## Информатика. Подготовка к окружному этапу олимпиады ##
 
-##Практикум по программированию: подготовка к окружному этапу олимпиады##
+## Практикум по программированию: подготовка к окружному этапу олимпиады ##
 
 <p>
     <a href="https://foxford.ru/courses/995/lessons/28399">Сайт</a>
 </p>
 
-###Автор: Труфанов Павел - Призёр ВСОШ по информатике, преподаватель выездных школ Фоксфорда###
-
+### Автор: Труфанов Павел ###
+Призёр ВСОШ по информатике, преподаватель выездных школ Фоксфорда
+ 
 #### Об этом курсе ####
 Практикум по программированию: подготовка к окружному этапу олимпиады
 
@@ -18,8 +19,8 @@
 Будет рассказано о том, как проходит олимпиада, как сдаются задачи, какие возможны сложности и какие есть хитрости.
 
 5 задач:
-1. [Свадьбы](https://github.com/andrewbudo/coursera_cpp/tree/master/1.white_belt)
-2. [Холодильник](https://github.com/andrewbudo/coursera_cpp/tree/master/2.yellow_belt)
-3. [Ставки](https://github.com/andrewbudo/coursera_cpp/tree/master/3.red_belt)
-4. [Игра со спичками](https://github.com/andrewbudo/coursera_cpp/tree/master/4.brown_belt)
-5. [Клавиатура](https://github.com/andrewbudo/coursera_cpp/tree/master/5.black_belt)
+1. [Свадьбы](https://github.com/andrewbudo/foxford/tree/master/1.city/Course.1_0.Introduction/Task1)
+2. [Холодильник](https://github.com/andrewbudo/foxford/tree/master/1.city/Course.1_0.Introduction/Task2)
+3. [Ставки](https://github.com/andrewbudo/foxford/tree/master/1.city/Course.1_0.Introduction/Task3)
+4. [Игра со спичками](https://github.com/andrewbudo/foxford/tree/master/1.city/Course.1_0.Introduction/Task4)
+5. [Клавиатура](https://github.com/andrewbudo/foxford/tree/master/1.city/Course.1_0.Introduction/Task5)
