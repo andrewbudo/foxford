@@ -21,3 +21,6 @@
 *.tlog
 *.idb
 *.pdb
+*.ipch
+*.exe
+*.ilk
