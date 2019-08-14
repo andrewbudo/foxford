@@ -2,7 +2,7 @@
 #include<algorithm>
 #include<vector>
 using namespace std;
-int main()
+int main1()
 {
 	int n, k;
 	cin >> n >> k;
