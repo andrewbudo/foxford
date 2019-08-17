@@ -24,3 +24,6 @@
 *.ipch
 *.exe
 *.ilk
+*.suo
+*.db
+*.opendb
