@@ -2,7 +2,7 @@
 ## Практикум по программированию: подготовка к окружному этапу олимпиады ##
 
 <p>
-    <a href="https://foxford.ru/courses/995/lessons/28399">Сайт</a>
+    <a href="https://informatics.msk.ru/mod/statements/view3.php?id=&chapterid=906#1">Сайт</a>
 </p>
 
 ### Холодильник ###
