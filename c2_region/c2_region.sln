@@ -5,28 +5,43 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.Begin_simple", "0.Begin_simple", "{D2DC039C-7A32-4A9B-96BB-D50A9D033040}"
 	ProjectSection(SolutionItems) = preProject
-		0.Introduction\README.md = 0.Introduction\README.md
+		0.Begin_simple\README.md = 0.Begin_simple\README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Binary_search", "1.Binary_search", "{90586B1E-C7A9-48D7-A8C0-4BA85C938C71}"
 	ProjectSection(SolutionItems) = preProject
-		1.Date_and_time\README.md = 1.Date_and_time\README.md
+		1.Binary_search\README.md = 1.Binary_search\README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Strings_tasks", "2.Strings_tasks", "{AF7755A9-5C1F-4E45-A07B-FF380D585730}"
 	ProjectSection(SolutionItems) = preProject
-		2.Formulas\README.md = 2.Formulas\README.md
+		2.Strings_tasks\README.md = 2.Strings_tasks\README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Graph", "3.Graph", "{1F90134D-E759-423C-94F3-CAA70F88AFBC}"
+	ProjectSection(SolutionItems) = preProject
+		3.Graph\README.md = 3.Graph\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Condensat", "4.Condensat", "{1BF3024C-CEE8-4C8E-AD69-29AC00DCB383}"
+	ProjectSection(SolutionItems) = preProject
+		4.Condensat\README.md = 4.Condensat\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Prefix_sum", "5.Prefix_sum", "{DE026F7A-7D3F-4FF0-9F88-A899A5958FDD}"
+	ProjectSection(SolutionItems) = preProject
+		5.Prefix_sum\README.md = 5.Prefix_sum\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.Dynamical_programming", "6.Dynamical_programming", "{DB7A777C-FDB2-4341-9484-DE6B11C12439}"
+	ProjectSection(SolutionItems) = preProject
+		6.Dynamical_programming\README.md = 6.Dynamical_programming\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.Two_pointers", "7.Two_pointers", "{6D2DB930-5B60-4415-8E5E-D9E4A6655A64}"
+	ProjectSection(SolutionItems) = preProject
+		7.Two_pointers\README.md = 7.Two_pointers\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7E67E5DC-9117-4C31-B3E5-790F039B04C3}"
 	ProjectSection(SolutionItems) = preProject
