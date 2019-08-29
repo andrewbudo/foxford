@@ -1,26 +1,25 @@
 # foxford
-## Информатика. Подготовка к окружному этапу олимпиады ##
+## Информатика. Подготовка к региональному этапу олимпиады ##
 
-## Практикум по программированию: подготовка к окружному этапу олимпиады ##
+## Практикум по программированию: подготовка к региональному этапу олимпиады ##
 
 <p>
-    <a href="https://foxford.ru/courses/995/lessons/28399">Сайт</a>
+    <a href="https://foxford.ru/courses/996/lessons/24537">Сайт</a>
 </p>
 
 ### Автор: Труфанов Павел ###
 Призёр ВСОШ по информатике, преподаватель выездных школ Фоксфорда
  
 #### Об этом курсе ####
-Практикум по программированию: подготовка к окружному этапу олимпиады
+Практикум по программированию: подготовка к региональному этапу олимпиады
 
 #### Об этом разделе ####
-##### Моделирование. Перебор #####
-Решение задач на моделирование
-Решение задач на перебор
+##### Алгоритмы на графах #####
+Решение задач на dfs, bfs, алгоритм Дейкстры, поиск мостов и точек сочленения
 
-5 задач:
-1. [Задача1](https://github.com/andrewbudo/foxford/tree/master/1.city/Course.1_3.Modelling/Task1)
-2. [Задача2](https://github.com/andrewbudo/foxford/tree/master/1.city/Course.1_3.Modelling/Task2)
-3. [Задача3](https://github.com/andrewbudo/foxford/tree/master/1.city/Course.1_3.Modelling/Task3)
-4. [Задача4](https://github.com/andrewbudo/foxford/tree/master/1.city/Course.1_3.Modelling/Task4)
-5. [Задача5](https://github.com/andrewbudo/foxford/tree/master/1.city/Course.1_3.Modelling/Task5)
+5 задач:                                                       
+1. [Задача1](https://github.com/andrewbudo/foxford/tree/master/c2_region/3.Graph/3.Task1)
+2. [Задача2](https://github.com/andrewbudo/foxford/tree/master/c2_region/3.Graph/3.Task2)
+3. [Задача3](https://github.com/andrewbudo/foxford/tree/master/c2_region/3.Graph/3.Task3)
+4. [Задача4](https://github.com/andrewbudo/foxford/tree/master/c2_region/3.Graph/3.Task4)
+5. [Задача5](https://github.com/andrewbudo/foxford/tree/master/c2_region/3.Graph/3.Task5)
