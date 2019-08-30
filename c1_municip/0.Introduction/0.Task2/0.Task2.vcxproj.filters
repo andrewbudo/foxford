@@ -17,6 +17,7 @@
   <ItemGroup>
     <None Include="README.md" />
     <None Include="HINT.md" />
+    <None Include="Answer.md" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">

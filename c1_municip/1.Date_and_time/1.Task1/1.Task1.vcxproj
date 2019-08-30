@@ -119,6 +119,7 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Answer.md" />
     <None Include="HINT.md" />
     <None Include="README.md" />
   </ItemGroup>

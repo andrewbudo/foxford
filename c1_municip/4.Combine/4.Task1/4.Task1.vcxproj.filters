@@ -17,5 +17,6 @@
   <ItemGroup>
     <None Include="HINT.md" />
     <None Include="README.md" />
+    <None Include="Answer.md" />
   </ItemGroup>
 </Project>
