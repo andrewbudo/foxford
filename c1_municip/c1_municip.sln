@@ -36,7 +36,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Combine", "4.Combine", "{1BF3024C-CEE8-4C8E-AD69-29AC00DCB383}"
 	ProjectSection(SolutionItems) = preProject
 		4.Combine\README.md = 4.Combine\README.md
-		4.Combine\4.Task1\README.md = 4.Combine\4.Task1\README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Binary_search", "5.Binary_search", "{DE026F7A-7D3F-4FF0-9F88-A899A5958FDD}"
